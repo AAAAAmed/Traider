@@ -1,4 +1,4 @@
 # Traider
 An AI trading negotiation game.
 
-***Note:** This is not the source code, this is a built flutter web app.*
+***Note:** The source code is in the main.dart file. The rest is the built flutter app, NOT source code.*
